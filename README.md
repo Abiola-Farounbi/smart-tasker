@@ -63,7 +63,7 @@ Smart Tasker is a React-based productivity application designed to streamline ta
 - Performs real-time filtering without page reload
 - Optimized for performance with minimal render overhead
 
-### Local Storage Mechanism
+### Local Storage
 - Leverages `localStorage` for persistent data storage
 
 ## 📦 Getting Started
