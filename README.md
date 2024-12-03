@@ -1,8 +1,8 @@
-# Smart Tasker: Advanced Task Management Application
+# Smart Tasker
 
 ## 🚀 Project Overview
 
-Smart Tasker is a React-based productivity application designed to streamline task management with advanced features and a user-friendly interface.
+Smart Tasker is a React-based application designed to streamline task management with advanced features and a user-friendly interface.
 
 ## ✨ Key Features
 
