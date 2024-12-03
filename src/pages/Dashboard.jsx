@@ -37,7 +37,7 @@ const Dashboard = () => {
             setEditingTask(null);
             setIsModalOpen(true);
           }}
-          className="bg-blue-500 text-white px-4 py-2 rounded"
+          className="bg-purple-500 text-white px-4 py-2 rounded"
         >
           Add New Task
         </button>
@@ -69,7 +69,7 @@ const Dashboard = () => {
             <div className="flex space-x-2">
               <button 
                 onClick={() => openEditModal(task)}
-                className="text-blue-500"
+                className="text-purple-500"
               >
                 <Edit size={20} />
               </button>
